@@ -5,14 +5,20 @@
 int main ()
 {
 int wynik; 
-wynik=10+8;
-std::cout << wynik <<std::endl;
-std::string lolo{"Hello World"};
-std::cout << lolo <<std::endl;
-//std::cout << "Hello World \n" ;
+std::cout << "Podaj liczbe a ";
+int a; 
+std::cin >> a;
 
-int wynik2 = 10+"a"; 
-std::cout << wynik2 <<std::endl;
+ 
+std::cout << "Podaj liczbe b ";
+int b; 
+std::cin >> b;
+
+
+wynik =a+b;
+
+std::cout << "a + b = "<< wynik <<std::endl;
+
 
 
 return 0;
