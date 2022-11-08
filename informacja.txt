@@ -1,0 +1,10 @@
+Hej, jak widzisz da się dodawać coś do Twojego repo po dodaniu klucza SSH.
+Miałem błąd w linku i stąd problem wczoraj.
+
+Aby lepiej zrozumieć filozofię GIT'a polecam zapoznać się z tym artykułem:
+https://towardsdatascience.com/an-easy-beginners-guide-to-git-2d5a99682a4c
+
+Jak już ogarniesz te podstawy, to zrób ten kurs:
+https://learngitbranching.js.org/?locale=en
+
+

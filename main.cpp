@@ -14,10 +14,13 @@ std::cout << "Podaj liczbe b ";
 int b; 
 std::cin >> b;
 
+std::cout << "Podaj liczbe c ";
+int c; 
+std::cin >> c;
 
-wynik =a+b;
+wynik =(a+b)*c;
 
-std::cout << "a + b = "<< wynik <<std::endl;
+std::cout << "(a + b) * c = "<< wynik <<std::endl;
 
 
 
